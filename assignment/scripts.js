@@ -1,5 +1,5 @@
 // 1. Declare variables and assign appropriate values
-const myName = "Lekha";
+const myName = "srujana";
 const myAge = 20;
 const myCity = "Srikakulam";
 const isStudent = true;
